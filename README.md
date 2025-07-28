@@ -8,7 +8,7 @@ This intrusion detection dataset was generated to validate the utility of the SD
 - **Attack traffic**: Several attacks were used to generate the attack traffic, including two types of SYN flood attacks (generic and random source flood, referred to as SYN flow flood in this project) and a port scan attack.
 
 ### Data features:
-  All the datasets consist of 85 features, including the categorical 'label' column.
+All the dataframes consist of 84 flow features and a categorical 'label' column.
 - Normal traffic consists of 3129 instances.
 - SYN flood attack consists of 94,141 instances.
 - SYN flow flood attack consists of 2854 instances.
