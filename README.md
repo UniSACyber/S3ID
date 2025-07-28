@@ -1,5 +1,4 @@
-# S3ID
-SDN-based Space Systems Intrusion Detection (S3ID) Dataset
+# SDN-based Space Systems Intrusion Detection (S3ID) Dataset
 
 This Intrusion Detection dataset was generated to validate the utility of the SDN-based Space Systems Framework for Simulations (S3FS) developed in this project. The dataset represents data transfer from an Earth observation (EO) Walker-Delta satellite constellation to a ground station for normal traffic, and a malicious switch is connected to the ground station to generate attack traffic. The S3ID dataset is suitable for training Machine learning-based Intrusion Detection Systems (IDS).
 
