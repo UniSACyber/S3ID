@@ -8,7 +8,7 @@ This intrusion detection dataset was generated to validate the utility of the SD
 - **Attack traffic**: Several attacks were used to generate the attack traffic, including two types of SYN flood attacks (generic and random source flood, referred to as SYN flow flood in this project) and a port scan attack.
 
     <p align="center">
-        <img src="graphics/eosimulation" alt="Topology of the Walker constellation for Earth observation simulation on Mininet." width="400">
+        <img src="graphics/eosimulation.pdf" alt="Topology of the Walker constellation for Earth observation simulation on Mininet." width="400">
     </p>
 
 ### Data features:
