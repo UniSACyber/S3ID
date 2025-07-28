@@ -8,7 +8,7 @@ This intrusion detection dataset was generated to validate the utility of the [S
 - **Attack traffic**: Several attacks were used to generate the attack traffic, including a port scan attack and two types of SYN flood attacks, a generic (DoS attack) and random source flood (DDoS attack), referred to as SYN flow flood attack in this project.
 
     <p align="center">
-        <img src="graphics/eoscenario.svg" alt="EO Walker-Delta constelaltion in Mininet" width="500">
+        <img src="graphics/eoscenario.svg" alt="EO Walker-Delta constelaltion in Mininet" width="600">
     </p>
     
 - The traffic was captured on the POX controller virtual machine as PCAP files using Tcpdump.
