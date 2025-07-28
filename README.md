@@ -20,4 +20,6 @@ All the dataframes consist of 84 flow features and a categorical 'label' column.
 ## Future work
 The S3ID dataset will continuously be updated. The following are some of the planned updates:
 - More advanced cyber attacks will be simulated against SDN-based space systems.
-- 
+
+## Reference publication
+Uhongora, U., Thinyane, M., & Law, YW. (2024) __"Development of an SDN-based Space Systems Simulation Framework for Intrusion Detection."__ IEEE International Conference on Cyber Security and Resilience (IEEE CSR), *__Forthcoming__*.
