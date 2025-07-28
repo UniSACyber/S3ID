@@ -9,7 +9,8 @@ This dataset was generated to validate the utility of the SDN-based Space System
 - **Attack traffic**: Several attacks were used to generate the attack traffic, including two types of SYN flood attacks (generic and random source flood, referred to as SYN flow flood in this project) and a port scan attack.
 
 - ### Data features:
+  All the generated data consists of 85 features, including the 'label' column.
 - Normal traffic consists of
 - SYN flood attack consists of
-- SYN flow flood attack consists of
-- Port scan attack consists of 818 instances and 85 features, including the 'label' column.
+- SYN flow flood attack consists of 94,142 and 
+- Port scan attack consists of 818 instances.
