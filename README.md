@@ -10,7 +10,7 @@ This dataset was generated to validate the utility of the SDN-based Space System
 
 - ### Data features:
   All the generated data consists of 85 features, including the 'label' column.
-- Normal traffic consists of
-- SYN flood attack consists of
-- SYN flow flood attack consists of 94,142 and 
-- Port scan attack consists of 818 instances.
+- Normal traffic consists of 3129 instances.
+- SYN flood attack consists of 94,141 instances.
+- SYN flow flood attack consists of 2854 instances.
+- Port scan attack consists of 817 instances.
