@@ -27,4 +27,5 @@ The S3ID dataset will continuously be updated to develop a more extensive datase
 - A simulation of more advanced cyber attacks against SDN-based space systems will be performed.
 
 ## Reference publication
+Further details of the dataset are discussed in the paper below. For using the S3ID dataset, the following paper must be cited.
 Uhongora, U., Thinyane, M., & Law, YW. (2024) __"Development of an SDN-based Space Systems Simulation Framework for Intrusion Detection."__ IEEE International Conference on Cyber Security and Resilience (IEEE CSR), *__Forthcoming__*.
