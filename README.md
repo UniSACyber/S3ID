@@ -4,7 +4,8 @@ This intrusion detection dataset was generated to validate the utility of the [S
 
 ## Dataset characteristics
 ### Dataset generation:
-The EO Walker-Delta satellite constellation dynamics from MATLAB were exported to Mininet to integrate software-defined networking (SDN). Two Oracle VirtualBox virtual machines were set up for Mininet and the SDN POX controller. The virtual machines communicate via a Host-only network adapter on Oracle VirtualBox. In Mininet, the satellites and the ground station are presented as a coupled Mininet host (e.g. s1 and h1). The diagram below shows the topology configuration.
+The EO Walker-Delta satellite constellation orbital dynamics from MATLAB were exported to Mininet to integrate software-defined networking (SDN). Two Oracle VirtualBox virtual machines were set up for Mininet and the SDN POX controller. The virtual machines communicate via a Host-only network adapter on Oracle VirtualBox. In Mininet, the satellites and the ground station are presented as a coupled Mininet host (e.g. s1 and h1). The diagram below shows the topology configuration.
+
     <p align="center">
         <img src="graphics/eoscenario.svg" alt="EO Walker-Delta constelaltion in Mininet" width="500">
     </p>
