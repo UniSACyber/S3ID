@@ -21,7 +21,7 @@ All the dataframes consist of 84 flow features and a categorical 'label' column.
 - SYN flow flood (DDoS) attack consists of 2854 instances.
 - Port scan attack consists of 817 instances.
 
-### Dataset validation
+## Dataset validation
 All the dataframes were combined into one CSV file. To validate the multi-class dataset, three ML-based classifiers were explored, namely, radial basis function kernel (RBF)-Support Vector Machine (SVM), Random Forest (RF) and k-nearest Neighbor (KNN). Preprocessing steps such as normalisation, feature selection and dataset splitting (80% training and 20% testing) were performed. RF classifier achieved the highest performance with a 0.866 accuracy compared to 0.758 and 0.771 for SVM and KNN, respectively.
 
 ## Future work
