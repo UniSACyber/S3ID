@@ -21,6 +21,9 @@ All the dataframes consist of 84 flow features and a categorical 'label' column.
 - SYN flow flood (DDoS) attack consists of 2854 instances.
 - Port scan attack consists of 817 instances.
 
+### Dataset validation
+All the dataframes were combined into one CSV file. To validate the multi-class dataset, three ML-based classifiers were explored, namely, radial basis function kernel (RBF)-Support Vector Machine (SVM), Random Forest (RF) and k-nearest Neighbor (KNN).  Preprocessing steps such as normalisation, feature selection and dataset splitting (80% training and 20% testing) were performed.
+
 
 ## Future work
 The S3ID dataset was developed to test and validate [S3FS](https://github.com/UniSACyber/S3FS). S3ID will be continuously updated, and a more comprehensive and extensive dataset will be developed at a later stage. Additionally, simulations of more advanced cyber attacks originating outside the Mininet VM will be performed.
