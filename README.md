@@ -23,8 +23,7 @@ All the dataframes consist of 84 flow features and a categorical 'label' column.
 
 
 ## Future work
-The S3ID dataset will continuously be updated to develop a more extensive dataset. The following are some of the planned updates:
-- A simulation of more advanced cyber attacks against SDN-based space systems will be performed.
+The S3ID dataset was developed to test and validate [S3FS](https://github.com/UniSACyber/S3FS). S3ID will be continuously updated, and a more comprehensive and extensive dataset will be developed at a later stage. Additionally, simulations of more advanced cyber attacks against SDN-based space systems will be performed.
 
 ## Reference publication
 Further details of the dataset are discussed in the paper below. For using the S3ID dataset, the following paper must be cited.
